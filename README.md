@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anantkhandelwal15&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Justakap&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -75,15 +75,15 @@ I build end-to-end web applications using the MERN stack, focusing on real-time 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anantkhandelwal15&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Justakap&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anantkhandelwal15&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Justakap&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anantkhandelwal15&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Justakap&layout=compact&theme=tokyonight" />
 </p>
 
 ---
